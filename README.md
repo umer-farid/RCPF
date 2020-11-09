@@ -1,5 +1,7 @@
 # Rabbit Carrot Path Finding
 
+    Developer: Umer Farid
+    
     Algorithm: BFS
 
     Data Structure: Queue
@@ -8,6 +10,7 @@
 
 
 # How to run?
+
     cmd windows: python solve.py
 
     Or Run solve.py in your code editor
