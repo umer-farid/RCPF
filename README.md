@@ -50,5 +50,4 @@ You can also change the maze from simple to complex structure
     
     Queue is First in First out data structure
         
-        """
        
